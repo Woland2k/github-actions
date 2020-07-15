@@ -1,0 +1,25 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "This action prints \"Hello World\" or \"Hello\" + the name of a person to greet to the log.",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Woland2k/github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Woland2k/github-actions/issues"
+  },
+  "homepage": "https://github.com/Woland2k/github-actions#readme"
+}
